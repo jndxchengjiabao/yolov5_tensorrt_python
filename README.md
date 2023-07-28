@@ -9,6 +9,7 @@
 2.安装pycuda
 
 步骤：
+
 1.将yolov5官方代码训练好的.py模型转化为.onnx模型
 
 $ python export.py --weights yolov5s.pt --include onnx
