@@ -29,5 +29,7 @@ https://github.com/wang-xinyu/tensorrtx
 
 https://github.com/ultralytics/yolov5
 
+https://github.com/yaoyi30/yolov5-tensorrt-python
+
 
 
